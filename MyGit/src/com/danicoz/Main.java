@@ -5,6 +5,7 @@ public class Main {
 		System.out.println("测试1");
 		System.out.println("测试3：冲突解决");
 		System.out.println("测试2：远程修改代码");
+		System.out.println("测试4：develop merge master");
 
 	}
 }
