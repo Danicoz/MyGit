@@ -10,6 +10,8 @@ public class Main {
 		System.out.println("测试6：master merge develop");
 		System.out.println("测试7：develop merge master");
 		System.out.println("测试8：master merge develop");
+		System.out.println("测试9：develop merge master");
+
 
 	}
 }
